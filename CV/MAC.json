@@ -11,22 +11,16 @@
       "title": "Frontend developer",
       "description": "I am a full stack software developer with experience working with big teams and as a freelance, where my workflow is based on agile methodologies such as SCRUM. I’ve been working as a frontend developer in web and mobile applications for more than 6 years.\n\nI am passionate about turning ideas into digital products through code and implementing them with great attention to detail; further, I am always willing to learn something new, innovative and functional to apply in my day-to-day work to improve my skills.\n\nDuring my career, I’ve got the opportunity to work in different sectors of the industry using programming languages ​​such as Javascript, where my skills stand out in main technologies (frameworks and libraries) such as React and its ecosystem. \n\nI love ReactJs ❤️, sharing my knowledge and collaborative programming.",
       "avatar": {
-        "alt": "me.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/01/83d3b3aa-fa3c-4803-8d2b-dcc29bfe4ba5_me.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/01/83d3b3aa-fa3c-4803-8d2b-dcc29bfe4ba5_me.jpeg",
+        "alt": "me.jpeg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJLR25YQZIy5ERCe4e3HwTEo4)",
         "country": "Ecuador",
         "region": "Loja",
-        "municipality": "Loja",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Loja"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/miguelvinan/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "I love learning code and create personal projects",
@@ -41,13 +35,81 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "EN",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "ES",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "Axios",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CMS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ECMAScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GraphQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hooks",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jamstack",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MaterialUI",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "React",
@@ -74,79 +136,19 @@
       },
       {
         "skill": {
-          "name": "TestingLibrary",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jest",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Axios",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GitLab",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Hooks",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GraphQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "WebSockets",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Storybook",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "StyledComponents",
+          "name": "Styled Components",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Jamstack",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ECMAScript",
+          "name": "TestingLibrary",
           "type": "technology"
         }
       },
@@ -158,14 +160,28 @@
       },
       {
         "skill": {
-          "name": "MaterialUI",
+          "name": "WebSockets",
           "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Atención al detalle",
+          "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "CMS",
-          "type": "technology"
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de mentorización",
+          "type": "practice"
         }
       }
     ]
@@ -174,8 +190,17 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/miguelvinan/"
+          "URL": "https://www.linkedin.com/in/miguelvinan/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "a@miguelvinan.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "989595742",
+          "countryCode": "+593"
         }
       ]
     },
@@ -202,6 +227,10 @@
         "Frontend Developer",
         "Full-stack Developer"
       ]
-    }
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I would like to work with projects where I can use my skills as a React and React Native developer. I love React apps"
   }
 }
